@@ -6,4 +6,5 @@ This is a test repository to practice proper GIT methodology between an owner an
 * @marcad-owner is the owner
 
 ## Contributors
-* TBD
+* @marcad-contributor is contributing
+
